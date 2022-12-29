@@ -1,4 +1,4 @@
-NAME = a.out
+NAME = convert
 
 SRCS = main.cpp TypeAnalytics.cpp utils.cpp main.cpp
 OBJS = $(SRCS:.cpp=.o)
